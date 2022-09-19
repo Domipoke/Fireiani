@@ -8,7 +8,7 @@ html, head, body {
     align-items: center;
     vertical-align: middle;
 }
-.fireiano {
+.bg-fireiano {
     background: rgb(255,255,0);
     background: -moz-radial-gradient(circle, rgba(255,255,0,1) 00%, rgba(255,128,0,1) 60%, rgba(255,0,0,1) 100%);
     background: -webkit-radial-gradient(circle, rgba(255,255,0,1) 00%, rgba(255,128,0,1) 60%, rgba(255,0,0,1) 100%);
